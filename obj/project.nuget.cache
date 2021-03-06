@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUov3fN5X0dsR5OgXpgfmCD1ZgdvEcoh07wJsJubNM7G7Vy5llQjOP6v0GrM9AY12+dClHBXPA+6B0N+7IdBsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\svetk\\OneDrive\\Documents\\Dev-B\\GitExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\svetk\OneDrive\Documents\Dev-B\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\svetk\OneDrive\Documents\Dev-B\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\svetk\OneDrive\Documents\Dev-B\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\svetk\OneDrive\Documents\Dev-B\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\svetk\OneDrive\Documents\Dev-B\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\svetk\OneDrive\Documents\Dev-B\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.csprojAssemblyReference.cache
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\svetk\OneDrive\Documents\Dev-B\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
